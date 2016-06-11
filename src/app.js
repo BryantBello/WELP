@@ -1,10 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './app.css'
+import styles from './styles.module.css'
 
 import 'font-awesome/css/font-awesome.css'
 
-
+//create class component
 
 const App = React.createClass({
   render: function() {
