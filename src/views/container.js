@@ -68,7 +68,7 @@ export class Container extends React.Component {
           <Header />
 
           <Sidebar
-              title={'Restaurants'}
+              title={'Restaurants!!!!'}
               onListItemClick={this.onMarkerClick.bind(this)}
               places={this.state.places} />
 
